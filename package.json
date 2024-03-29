@@ -1,0 +1,14 @@
+{
+  "name": "minieditor",
+  "version": "1.0.0",
+  "description": "Mini editor de código",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Andres",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.1.4"
+  }
+}
